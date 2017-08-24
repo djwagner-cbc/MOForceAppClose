@@ -1,0 +1,12 @@
+{
+  "name": "cordova-force-app-close",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-force-app-close",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "description": "for closing app programatically, just use MOForceAppClose.forceAppClose() and it must close the app.ß"
+}
