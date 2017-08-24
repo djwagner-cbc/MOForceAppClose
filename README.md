@@ -1,4 +1,9 @@
-Cordova Plugin Template
+## Force App Close
 ======
+* this is a simple plugin to force app close programatically 
+###Install 
+  `cordova platform add `
+### Usage
+``` MOForceAppClose.forceAppClose() ```
 
-This is a simple starting point for building a Cordova plugin on iOS and Android.
+
