@@ -2,7 +2,7 @@
 ======
 * this is a simple plugin to force app close programatically 
 ###Install 
-  `cordova platform add `
+  `cordova plugin add cordova-force-app-close`
 ### Usage
 ``` MOForceAppClose.forceAppClose() ```
 
