@@ -1,6 +1,11 @@
 {
   "name": "mo-force-app-close",
   "version": "1.0.2",
+  "keywords": [
+    "cordova",
+    "force app close",
+    "close app"
+  ],
   "cordova": {
     "id": "mo-force-app-close",
     "platforms": [
