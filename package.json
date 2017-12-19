@@ -1,8 +1,8 @@
 {
-  "name": "cordova-force-app-close",
-  "version": "1.0.01",
+  "name": "mo-force-app-close",
+  "version": "1.0.2",
   "cordova": {
-    "id": "cordova-force-app-close",
+    "id": "mo-force-app-close",
     "platforms": [
       "android",
       "ios"
